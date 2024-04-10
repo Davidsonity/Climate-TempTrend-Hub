@@ -2,7 +2,7 @@
 
 Time Series Analysis &amp; Forcasting Of Global Average Temperature 
 
-<img src="https://github.com/Davidsonity/Global-Temperature-Forcasting/assets/96771321/41a67605-eab5-4be9-a27e-b4093cd67b65" alt="shutterstock_globalwarming" width="600">
+<img src="https://github.com/Davidsonity/IBM-Help/assets/96771321/9afbf272-b0ff-48ba-8461-7d99d70c9d4e" alt="shutterstock_globalwarming" width="600">
 
 This repository contains code and analysis for exploring the global average temperature anomaly relative to the 1961-1990 average temperature. The dataset provides insights into the deviations in temperature over time, offering valuable information for understanding climate trends and variability.
 
